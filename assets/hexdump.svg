@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <rect width="900" height="220" rx="14" fill="#0b0b0b" stroke="#2c2c2c" stroke-width="2"/>
+  <rect width="900" height="40" rx="14" fill="#1a1a1a"/>
+  <rect y="20" width="900" height="20" fill="#1a1a1a"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" fill="#8b8b8b" font-size="13" font-family="Menlo, Monaco, Consolas, 'Courier New', monospace">udpboy@linux: ~$ xxd mindset.bin | head</text>
+  <text font-family="Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="14">
+    <tspan x="28" y="78" fill="#3fb950">udpboy@linux</tspan>
+    <tspan fill="#8b949e">:~$ </tspan>
+    <tspan fill="#e6edf3">xxd mindset.bin</tspan>
+    <tspan x="28" y="110" fill="#8b949e">00000000:</tspan>
+    <tspan fill="#3fb950"> 4c65 6172 6e20 2d3e 2042 7569 6c64 202d  </tspan>
+    <tspan fill="#e6edf3">Learn -&gt; Build -</tspan>
+    <tspan x="28" y="134" fill="#8b949e">00000010:</tspan>
+    <tspan fill="#3fb950"> 3e20 4272 6561 6b20 2d3e 2049 6d70 726f  </tspan>
+    <tspan fill="#e6edf3">&gt; Break -&gt; Impro</tspan>
+    <tspan x="28" y="158" fill="#8b949e">00000020:</tspan>
+    <tspan fill="#3fb950"> 7665 0000 0000 0000 0000 0000 0000 0000  </tspan>
+    <tspan fill="#e6edf3">ve..............</tspan>
+    <tspan x="28" y="190" fill="#8b949e"># Understanding how things work by taking them apart.</tspan>
+  </text>
+</svg>

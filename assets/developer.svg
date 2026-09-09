@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+  <rect width="900" height="380" rx="14" fill="#0b0b0b" stroke="#2c2c2c" stroke-width="2"/>
+  <rect width="900" height="40" rx="14" fill="#1a1a1a"/>
+  <rect y="20" width="900" height="20" fill="#1a1a1a"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" fill="#8b8b8b" font-size="13" font-family="Menlo, Monaco, Consolas, 'Courier New', monospace">udpboy@linux: ~$ cat developer.hpp</text>
+  <text font-family="Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="15">
+    <tspan x="28" y="78" fill="#3fb950">udpboy@linux</tspan>
+    <tspan fill="#8b949e">:~$ </tspan>
+    <tspan fill="#e6edf3">cat developer.hpp</tspan>
+    <tspan x="28" y="112" fill="#8b949e">#pragma once</tspan>
+    <tspan x="28" y="140" fill="#ff7b72">class</tspan>
+    <tspan fill="#e6edf3"> Developer {</tspan>
+    <tspan x="28" y="164" fill="#ff7b72">public:</tspan>
+    <tspan x="52" y="188" fill="#79c0ff">std::string</tspan>
+    <tspan fill="#e6edf3"> name        = </tspan>
+    <tspan fill="#a5d6ff">"udpboy"</tspan>
+    <tspan fill="#e6edf3">;</tspan>
+    <tspan x="52" y="212" fill="#79c0ff">std::string</tspan>
+    <tspan fill="#e6edf3"> alias       = </tspan>
+    <tspan fill="#a5d6ff">"Jester"</tspan>
+    <tspan fill="#e6edf3">;</tspan>
+    <tspan x="52" y="236" fill="#79c0ff">std::string</tspan>
+    <tspan fill="#e6edf3"> os          = </tspan>
+    <tspan fill="#a5d6ff">"Linux"</tspan>
+    <tspan fill="#e6edf3">;</tspan>
+    <tspan x="52" y="260" fill="#79c0ff">std::string</tspan>
+    <tspan fill="#e6edf3"> langs[]     = {</tspan>
+    <tspan fill="#a5d6ff">"C"</tspan>
+    <tspan fill="#e6edf3">, </tspan>
+    <tspan fill="#a5d6ff">"C++"</tspan>
+    <tspan fill="#e6edf3">, </tspan>
+    <tspan fill="#a5d6ff">"C#"</tspan>
+    <tspan fill="#e6edf3">, </tspan>
+    <tspan fill="#a5d6ff">"Python"</tspan>
+    <tspan fill="#e6edf3">};</tspan>
+    <tspan x="52" y="284" fill="#79c0ff">std::string</tspan>
+    <tspan fill="#e6edf3"> focus[]     = {</tspan>
+    <tspan fill="#a5d6ff">"Systems"</tspan>
+    <tspan fill="#e6edf3">, </tspan>
+    <tspan fill="#a5d6ff">"Low-level"</tspan>
+    <tspan fill="#e6edf3">, </tspan>
+    <tspan fill="#a5d6ff">"Security"</tspan>
+    <tspan fill="#e6edf3">};</tspan>
+    <tspan x="52" y="308" fill="#79c0ff">std::string</tspan>
+    <tspan fill="#e6edf3"> mindset     = </tspan>
+    <tspan fill="#a5d6ff">"Learn -&gt; Build -&gt; Break -&gt; Improve"</tspan>
+    <tspan fill="#e6edf3">;</tspan>
+    <tspan x="28" y="336" fill="#e6edf3">};</tspan>
+  </text>
+</svg>

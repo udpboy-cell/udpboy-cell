@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="292" viewBox="0 0 900 292">
+  <rect width="900" height="292" rx="14" fill="#0b0b0b" stroke="#2c2c2c" stroke-width="2"/>
+  <rect width="900" height="40" rx="14" fill="#1a1a1a"/>
+  <rect y="20" width="900" height="20" fill="#1a1a1a"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" fill="#8b8b8b" font-size="13" font-family="Menlo, Monaco, Consolas, 'Courier New', monospace">udpboy@linux: ~$ ls -la skills/</text>
+  <text font-family="Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="15">
+    <tspan x="28" y="78" fill="#3fb950">udpboy@linux</tspan>
+    <tspan fill="#8b949e">:~$ </tspan>
+    <tspan fill="#e6edf3">ls -la skills/</tspan>
+    <tspan x="28" y="108" fill="#8b949e">total 6</tspan>
+    <tspan x="28" y="134" fill="#58a6ff">drwxr-xr-x</tspan>
+    <tspan fill="#8b949e">  2 jester jester 4.0K  .</tspan>
+    <tspan x="28" y="158" fill="#3fb950">-rw-r--r--</tspan>
+    <tspan fill="#e6edf3">  1 jester jester  C            c.c</tspan>
+    <tspan x="28" y="182" fill="#3fb950">-rw-r--r--</tspan>
+    <tspan fill="#e6edf3">  1 jester jester  C++          cpp.cpp</tspan>
+    <tspan x="28" y="206" fill="#3fb950">-rw-r--r--</tspan>
+    <tspan fill="#e6edf3">  1 jester jester  C#           csharp.cs</tspan>
+    <tspan x="28" y="230" fill="#3fb950">-rw-r--r--</tspan>
+    <tspan fill="#e6edf3">  1 jester jester  Python       python.py</tspan>
+    <tspan x="28" y="254" fill="#3fb950">-rwxr-xr-x</tspan>
+    <tspan fill="#e6edf3">  1 jester jester  Linux        linux.ko</tspan>
+    <tspan x="28" y="278" fill="#f85149">-r--------</tspan>
+    <tspan fill="#e6edf3">  1 jester jester  Security     exploit.md</tspan>
+  </text>
+</svg>

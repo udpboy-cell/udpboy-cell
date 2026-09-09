@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+  <rect width="900" height="340" rx="14" fill="#0b0b0b" stroke="#2c2c2c" stroke-width="2"/>
+  <rect width="900" height="40" rx="14" fill="#1a1a1a"/>
+  <rect y="20" width="900" height="20" fill="#1a1a1a"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6.5" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" fill="#8b8b8b" font-size="13" font-family="Menlo, Monaco, Consolas, 'Courier New', monospace">udpboy@linux: ~$ cat /proc/self/status</text>
+  <text font-family="Menlo, Monaco, Consolas, 'Courier New', monospace" font-size="15">
+    <tspan x="28" y="78" fill="#3fb950">udpboy@linux</tspan>
+    <tspan fill="#8b949e">:~$ </tspan>
+    <tspan fill="#e6edf3">cat /proc/self/status</tspan>
+    <tspan x="28" y="112" fill="#8b949e">Name:          </tspan>
+    <tspan fill="#e6edf3">udpboy</tspan>
+    <tspan x="28" y="136" fill="#8b949e">Alias:         </tspan>
+    <tspan fill="#58a6ff">Jester</tspan>
+    <tspan x="28" y="160" fill="#8b949e">State:         </tspan>
+    <tspan fill="#3fb950">R (running)</tspan>
+    <tspan x="28" y="184" fill="#8b949e">OS:            </tspan>
+    <tspan fill="#e6edf3">Linux</tspan>
+    <tspan x="28" y="208" fill="#8b949e">Lang:          </tspan>
+    <tspan fill="#e6edf3">C, C++, C#, Python</tspan>
+    <tspan x="28" y="232" fill="#8b949e">VmPeak:        </tspan>
+    <tspan fill="#e6edf3">curiosity</tspan>
+    <tspan x="28" y="256" fill="#8b949e">SigCgt:        </tspan>
+    <tspan fill="#f85149">SIGSEGV</tspan>
+    <tspan fill="#8b949e">, SIGKILL(boredom)</tspan>
+    <tspan x="28" y="280" fill="#8b949e">Cpus_allowed:  </tspan>
+    <tspan fill="#e6edf3">systems, low-level, security</tspan>
+    <tspan x="28" y="312" fill="#3fb950">udpboy@linux</tspan>
+    <tspan fill="#8b949e">:~$ </tspan>
+  </text>
+  <rect x="168" y="300" width="8" height="16" fill="#3fb950"/>
+</svg>
