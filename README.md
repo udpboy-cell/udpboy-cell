@@ -62,11 +62,6 @@
 ## Stats
 
 <div align="center">
-  <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=udpboy-cell&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=3FB950" alt="stats"/></a>
-  <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udpboy-cell&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="languages"/></a>
-</div>
-
-<div align="center">
   <a href="#"><img src="https://streak-stats.demolab.com?user=udpboy-cell&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="streak"/></a>
 </div>
 
@@ -75,10 +70,6 @@
 </div>
 
 ## Heatmap
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=udpboy-cell&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/></a>
-</div>
 
 <div align="center">
   <picture>
